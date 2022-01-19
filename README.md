@@ -13,7 +13,7 @@
   <img align="center" alt="harpiah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="harpiah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="harpiah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="harpiah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   <img align="right" alt="harpiah-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933145098013802537/933145225902293062/61rudb.gif">
 </div>
   
