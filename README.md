@@ -1,4 +1,4 @@
-### Olá!!! Meu nome é Paloma, tenho 33 anos, sou da cidade Salvador/Ba - Brasil! 
+### Olá!!! Meu nome é Paloma, sou da cidade Salvador/Ba - Brasil! 
 - 🌱 Sou aluna do curso de Análise e Desenvolvimento de Sistemas e aluna do Nulab em backend em Node e da Oracle de Full Stack utilizando JS e Java!
 - 📫 Contate-me no email: palomasantanati@gmail.com
 - 🎯 Currículo: https://harpiah.github.io/
